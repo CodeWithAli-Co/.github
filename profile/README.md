@@ -35,8 +35,8 @@ We are dedicated to:
 ---
 
 ## Contact Us
-- **Email**: [unfold@codewithali.com](mailto:contact@codewithali.com)
-- **Website**: [www.codewithali.com](#)
+- **Email**: [unfold@codewithali.com](mailto:unfold@codewithali.com)
+- **Website**: [codewithali.com](https://codewithali.com/)
 - **Social Media**: Follow us for updates.
 
 ---
