@@ -37,7 +37,7 @@ We are dedicated to:
 ## Contact Us
 - **Email**: [unfold@codewithali.com](mailto:unfold@codewithali.com)
 - **Website**: [codewithali.com](https://codewithali.com/)
-- **Social Media**: Follow us for updates.
+- **Social Media**: [Follow us for updates.](https://www.instagram.com/officialcodewithali/)
 
 ---
 
